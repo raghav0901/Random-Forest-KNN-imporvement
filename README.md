@@ -10,3 +10,6 @@ Our basic motivation was to combine Random Forests and concepts of KNN to produc
 Our idea is to insert a KNN like algorithm at the leaf nodes of Random Forest to improve the accuracy rather than relying totally on pure majority voting. 
 The improved algorithm has almost the usability as the standard random forests and could be used in almost all cases where random forests could be used.
 The final algorithm was tested on our chosen dataset and the accuracy was also compared to random forests by plotting a graph.
+
+## Link to the official document:
+https://docs.google.com/document/d/1bK7dL24KY7DTxjbEuf9mzkuLQnak5L58MbTxFhqLSFs/edit?usp=sharing
