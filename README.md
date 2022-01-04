@@ -11,5 +11,5 @@ Our idea is to insert a KNN like algorithm at the leaf nodes of Random Forest to
 The improved algorithm has almost the usability as the standard random forests and could be used in almost all cases where random forests could be used.
 The final algorithm was tested on our chosen dataset and the accuracy was also compared to random forests by plotting a graph.
 
-## Link to the official document:
+## Link to the official paper:
 https://docs.google.com/document/d/1bK7dL24KY7DTxjbEuf9mzkuLQnak5L58MbTxFhqLSFs/edit?usp=sharing
